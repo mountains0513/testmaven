@@ -10,7 +10,7 @@ public class Test1 {
 	}
 	
 	public void test3() {
-		int j=99;
+		int i=110;
 	}
 	
 	public void test4() {
@@ -18,6 +18,10 @@ public class Test1 {
 	}
 	
 	public void test5() {
+		
+	}
+	
+	public void test6() {
 		
 	}
 }
