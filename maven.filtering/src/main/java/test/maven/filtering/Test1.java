@@ -10,7 +10,7 @@ public class Test1 {
 	}
 	
 	public void test3() {
-		String s="a03";	
+		String s = "a06";
 	}
 	
 	public void test4() {
