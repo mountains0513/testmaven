@@ -10,11 +10,11 @@ public class Test1 {
 	}
 	
 	public void test3() {
-		String s = "a06";
+		String s = "a07";
 	}
 	
 	public void test4() {
-		
+		String x = "d07";
 	}
 	
 	public void test5() {
