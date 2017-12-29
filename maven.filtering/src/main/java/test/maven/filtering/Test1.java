@@ -14,7 +14,7 @@ public class Test1 {
 	}
 	
 	public void test4() {
-		String x = "a07";
+		String x = "b07";
 	}
 	
 	public void test5() {
