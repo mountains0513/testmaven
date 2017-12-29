@@ -10,7 +10,7 @@ public class Test1 {
 	}
 	
 	public void test3() {
-		int i=1001;
+		int i=1101;
 	}
 	
 	public void test4() {
