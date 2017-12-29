@@ -11,7 +11,6 @@ public class Test1 {
 	
 	public void test3() {
 		String s="a01";
-		int i=1101;
 	}
 	
 	public void test4() {
