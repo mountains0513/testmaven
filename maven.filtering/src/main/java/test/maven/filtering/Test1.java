@@ -10,11 +10,7 @@ public class Test1 {
 	}
 	
 	public void test3() {
-<<<<<<< HEAD
 		int i=801;
-=======
-		int i=702;
->>>>>>> branch 'dev' of https://github.com/mountains0513/testmaven.git
 	}
 	
 	public void test4() {
